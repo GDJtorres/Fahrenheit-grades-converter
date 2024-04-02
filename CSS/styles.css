@@ -71,6 +71,7 @@ button{
 
 #result-container{
     border: 1px solid #F8F6E3;
+    color: black;
 }
 
 #instructions-container{
@@ -92,3 +93,4 @@ button{
     height: 50px;
     width: 50px;
 }
+/*comment*/
